@@ -7,6 +7,7 @@ public class GitTest {
     System.out.println("Edit new changes");
     System.out.println("Git is modified!");
     System.out.println("Hi, GreetGo!");
+    System.out.println("Hi, guys!");
   }
   
 }
